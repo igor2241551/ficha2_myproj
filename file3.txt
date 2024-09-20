@@ -1,1 +1,5 @@
-este é um exemplo de ficheiros de texto file3
+	este é um exemplo de ficheiros de texto file3
+
+
+
+	vamos testar novamente
